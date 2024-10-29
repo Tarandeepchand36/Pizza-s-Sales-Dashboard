@@ -40,4 +40,5 @@ This Power BI dashboard provides in-depth analysis and visualizations for pizza 
 - A dynamic, interactive dashboard was created in Power BI to visualize key performance indicators (KPIs) and trends in pizza sales.
 - The visualizations include bar charts, line charts, pie charts, and funnel charts, providing a comprehensive overview of sales performance, customer preferences, and product popularity.
 
-![Power BI Dashboard Screenshot](images/powerbi-dashboard-screenshot.png)
+![Alt Text](https://github.com/Tarandeepchand36/Pizza_Sales_Report_Dashboard/blob/main/Home%20Page.png)")
+![Alt Text](https://github.com/Tarandeepchand36/Pizza_Sales_Report_Dashboard/blob/main/Best%20and%20worst%20page.png)")
