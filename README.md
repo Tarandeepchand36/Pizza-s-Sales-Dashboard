@@ -33,6 +33,7 @@ This Power BI dashboard provides in-depth analysis and visualizations for pizza 
 ## 📝 SQL Queries for Data Preparation
 - SQL queries were utilized to extract, transform, and calculate key metrics such as Total Revenue, Average Order Value, and Total Pizzas Sold from the raw data.
 - These SQL transformations enable precise data filtering and aggregation, ensuring that the insights for visualization are accurate.
+- [Link Text](https://github.com/Tarandeepchand36/Pizza_Sales_Report_Dashboard/blob/main/PIZZA%20SALES%20SQL%20QUERIES..pdf)
 
 ![SQL Query Screenshot](images/sql-query-screenshot.png)
 
