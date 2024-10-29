@@ -28,7 +28,7 @@ This Power BI dashboard provides in-depth analysis and visualizations for pizza 
 - **Google Sheets Link:** https://docs.google.com/spreadsheets/d/1rz06QNfexzJ8hAEBdxS2r3ZfA1vsMEZiuGEdQAzLs2s/edit?usp=drive_link  
 - This Google Sheets file contains detailed sales data, including order details, pizza categories, and more, which serves as the primary data source for this analysis.
 
-![Alt Text](https://github.com/Tarandeepchand36/Pizza_Sales_Report_Dashboard/blob/main/Excel%20SS.png)") <!-- Add path to data source screenshot -->
+![Alt Text](https://github.com/Tarandeepchand36/Pizza_Sales_Report_Dashboard/blob/main/Excel%20SS.png) <!-- Add path to data source screenshot -->
 
 ## 📝 SQL Queries for Data Preparation
 - SQL queries were utilized to extract, transform, and calculate key metrics such as Total Revenue, Average Order Value, and Total Pizzas Sold from the raw data.
@@ -40,5 +40,5 @@ This Power BI dashboard provides in-depth analysis and visualizations for pizza 
 - A dynamic, interactive dashboard was created in Power BI to visualize key performance indicators (KPIs) and trends in pizza sales.
 - The visualizations include bar charts, line charts, pie charts, and funnel charts, providing a comprehensive overview of sales performance, customer preferences, and product popularity.
 
-![Alt Text](https://github.com/Tarandeepchand36/Pizza_Sales_Report_Dashboard/blob/main/Home%20Page.png)")
-![Alt Text](https://github.com/Tarandeepchand36/Pizza_Sales_Report_Dashboard/blob/main/Best%20and%20worst%20page.png)")
+![Alt Text](https://github.com/Tarandeepchand36/Pizza_Sales_Report_Dashboard/blob/main/Home%20Page.png)
+![Alt Text](https://github.com/Tarandeepchand36/Pizza_Sales_Report_Dashboard/blob/main/Best%20and%20worst%20page.png)
